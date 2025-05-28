@@ -10,17 +10,13 @@
 
 <!-- Introducción con estilo -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0969DA&center=true&vCenter=true&random=false&width=600&height=70&lines=Data+Scientist+%26+Python+Developer;Machine+Learning+Specialist;Certified+in+Python+and+SQL" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0969DA&center=true&vCenter=true&random=false&width=600&height=70&lines=Data+Scientist+%26+Python+Developer;Machine+Learning+Specialist;Python+%26+SQL+Expert" alt="Typing SVG" />
 </div>
 
 <!-- Iconos de contacto -->
 <div align="center">
   <a href="https://www.linkedin.com/in/felix-ruiz-mu%C3%B1oz-data-science/">
     <img src="https://raw.githubusercontent.com/MFelix9310/MFelix9310/main/icons/linkedin.svg" width="30" height="30" alt="LinkedIn">
-  </a>
-  &nbsp;&nbsp;
-  <a href="#">
-    <img src="https://raw.githubusercontent.com/MFelix9310/MFelix9310/main/icons/portfolio.svg" width="30" height="30" alt="Portfolio">
   </a>
 </div>
 
@@ -29,11 +25,11 @@
 </div>
 
 <p align="center">
-  <em>Especialista en Data Science con formación avanzada en Python y Machine Learning.</em>
+  <em>Especialista en Data Science con sólida experiencia en Python y Machine Learning.</em>
 </p>
 
 <p align="justify">
-Mi experiencia se centra en transformar datos complejos en insights accionables mediante técnicas analíticas y algoritmos de aprendizaje automático. Cuento con certificaciones de PCEP y DataCamp en SQL y análisis de datos, respaldando mi capacidad para diseñar soluciones eficientes y escalables. Mi enfoque combina rigor técnico con visión estratégica para resolver problemas de negocio a través de los datos.
+Mi trabajo se enfoca en transformar datos complejos en soluciones prácticas para problemas de negocio. Combino análisis estadístico con algoritmos de aprendizaje automático para desarrollar modelos predictivos y herramientas de visualización que facilitan la toma de decisiones. Mi experiencia incluye proyectos de automatización, optimización de procesos y desarrollo de dashboards interactivos para diferentes industrias.
 </p>
 
 <!-- Estadísticas de GitHub con estilo -->
@@ -115,29 +111,23 @@ Mi experiencia se centra en transformar datos complejos en insights accionables 
 </div>
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Modelos%20Predictivos-0078D7?style=for-the-badge" alt="Modelos Predictivos" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Automatización-00BCF2?style=for-the-badge" alt="Automatización" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Análisis%20Exploratorio-2B88D8?style=for-the-badge" alt="Análisis Exploratorio" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Visualización%20Avanzada-0078D4?style=for-the-badge" alt="Visualización Avanzada" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" colspan="2">
-        <img src="https://img.shields.io/badge/Optimización%20de%20Procesos-106EBE?style=for-the-badge" alt="Optimización de Procesos" />
-      </td>
-    </tr>
-  </table>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+    <div style="background-color: #0078D7; color: white; padding: 10px 20px; border-radius: 5px; margin: 5px; font-weight: bold;">
+      MODELOS PREDICTIVOS
+    </div>
+    <div style="background-color: #00BCF2; color: white; padding: 10px 20px; border-radius: 5px; margin: 5px; font-weight: bold;">
+      AUTOMATIZACIÓN
+    </div>
+    <div style="background-color: #2B88D8; color: white; padding: 10px 20px; border-radius: 5px; margin: 5px; font-weight: bold;">
+      ANÁLISIS EXPLORATORIO
+    </div>
+    <div style="background-color: #0078D4; color: white; padding: 10px 20px; border-radius: 5px; margin: 5px; font-weight: bold;">
+      VISUALIZACIÓN AVANZADA
+    </div>
+    <div style="background-color: #106EBE; color: white; padding: 10px 20px; border-radius: 5px; margin: 5px; font-weight: bold;">
+      OPTIMIZACIÓN DE PROCESOS
+    </div>
+  </div>
 </div>
 
 <!-- Separador decorativo -->
@@ -172,4 +162,3 @@ Mi experiencia se centra en transformar datos complejos en insights accionables 
 <div align="center">
   <p><i>No dudes en contactarme para colaboraciones o consultas.</i></p>
 </div>
-
