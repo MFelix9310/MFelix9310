@@ -1,8 +1,4 @@
-<!-- Cabecera con fondo azul degradado -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/MFelix9310/MFelix9310/main/header_background.png" alt="Header" width="100%">
-</div>
-
+<!-- Banner personalizado -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/MFelix9310/MFelix9310/main/banner.png" alt="Félix Ruiz - Data Scientist & Python Developer" width="80%">
 </div>
@@ -205,12 +201,6 @@ Mi experiencia se centra en transformar datos complejos en insights accionables 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MFelix9310&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
-<br>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MFelix9310&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
-</div>
-
 <!-- Contador de visitas con estilo -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=MFelix9310&label=Visitas+al+Perfil&color=0e75b6&style=for-the-badge" alt="Contador de visitas" />
@@ -236,9 +226,3 @@ Mi experiencia se centra en transformar datos complejos en insights accionables 
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MFelix9310)
   
 </div>
-
-<!-- Imagen de fondo para el pie de página -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/MFelix9310/MFelix9310/main/footer_background.png" alt="Footer" width="100%">
-</div>
-
