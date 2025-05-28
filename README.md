@@ -13,6 +13,17 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0969DA&center=true&vCenter=true&random=false&width=600&height=70&lines=Data+Scientist+%26+Python+Developer;Machine+Learning+Specialist;Certified+in+Python+and+SQL" alt="Typing SVG" />
 </div>
 
+<!-- Iconos de contacto -->
+<div align="center">
+  <a href="https://www.linkedin.com/in/felix-ruiz-mu%C3%B1oz-data-science/">
+    <img src="https://raw.githubusercontent.com/MFelix9310/MFelix9310/main/icons/linkedin.svg" width="30" height="30" alt="LinkedIn">
+  </a>
+  &nbsp;&nbsp;
+  <a href="#">
+    <img src="https://raw.githubusercontent.com/MFelix9310/MFelix9310/main/icons/portfolio.svg" width="30" height="30" alt="Portfolio">
+  </a>
+</div>
+
 <div align="center">
   <h3>👨‍💻 Sobre mí</h3>
 </div>
@@ -162,8 +173,3 @@ Mi experiencia se centra en transformar datos complejos en insights accionables 
   <p><i>No dudes en contactarme para colaboraciones o consultas.</i></p>
 </div>
 
-<div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felix-ruiz-mu%C3%B1oz-data-science/)
-  
-</div>
